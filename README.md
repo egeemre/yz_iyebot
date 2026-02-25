@@ -14,9 +14,13 @@ Kullanıcı Arayüzü (Frontend)
 
 Eğitim Dosyaları:
 1- İş yeri eğitimi yönergesi. ✔✔✔YÜKLENDİ
+
 2- EK dosyalarının hepsi.
+
 3- 2025-2026 iş yeri eğitimi akış şeması
+
 4- Marmara sayfasındaki soru cevaplar (json formatına getirilecek) ✔✔✔ YÜKLENDİ
+
 5- Classroom toplantı notları (json formatına getirilecek) ✔✔✔ YÜKLENDİ
 
 CLASSROOM DUYURULARI::::
