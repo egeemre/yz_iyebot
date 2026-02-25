@@ -126,3 +126,14 @@ Bunun yanısıra, EK-1 belgesinde ödeme almak isteyip dönem içinde bu talebin
 
 Şirket değişikliği sebebiyle talep değişikliği yaşayan ve bu listede adı olmayan öğrenci varsa bu mesajın altına lütfen acilen yazsın.
 
+2) Öğrenciler, işyeri eğitimini dördüncü sınıfın güz veya bahar yarıyıllarında gerçekleştirir. Bir hafta beş işgünü ve bir işgünü sekiz saat olarak değerlendirilir. İşyeri eğitiminin kesintisiz yapılması esastır. Ancak zorunlu durumlarda, Bölüm İşyeri Eğitimi Komisyonunun onayı ile işyeri eğitimi uygun görülen zamanda ve farklı işyerlerinde yapılabilir.
+
+3) İş Yeri Eğitimi sonunda aşağıdaki belgelerin Bölüm Başkanlıklarına teslimi gerekmektedir.
+- İş Yeri Eğitimi Raporu (EK3)
+- İş Yeri Eğitimi Değerlendirme Formu (EK4)
+- İş Yeri Eğitimi Devam Çizelgesi (EK5)
+- İş Yeri Eğitim Anketi (EK6)
+
+ 
+
+NOT : Devam çizelgelerinin, takip eden her ayın 5'ine kadar bölüm başkanlıklarının e-posta adresine yollanması gerekmektedir. Ayrıca tüm aylara ait orijinal formların, ıslak imzalı ve mühürlü hallerinin staj bitimini izleyen haftanın Çarşamba gününe kadar Bölüm Başkanlığı'na teslim edilmesi gerekmektedir.
