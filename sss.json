@@ -1,0 +1,394 @@
+[
+  {
+    "id": "SSS_001",
+    "kategori": "Genel Bilgiler",
+    "soru": "İşyeri Eğitimi yönergesinin amacı nedir?",
+    "cevap": "Bu Yönergenin amacı, Marmara Üniversitesi Teknoloji Fakültesi öğrencilerinin eğitim-öğretim programında yer alan İşyeri Eğitiminin uygulama esaslarını belirlemektir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "amaç, yönerge, uygulama esasları, neden yapılır, işyeri eğitimi mantığı"
+  },
+  {
+    "id": "SSS_002",
+    "kategori": "Genel Bilgiler",
+    "soru": "İşyeri Eğitimi yönergesinin kapsamı nedir?",
+    "cevap": "Bu Yönerge, Marmara Üniversitesi Teknoloji Fakültesi öğrencilerinin işyeri eğitimleriyle ilgili uygulama ve esasları kapsar.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "kapsam, uygulama, esaslar, kimleri kapsar"
+  },
+  {
+    "id": "SSS_003",
+    "kategori": "Tanımlar",
+    "soru": "İş yerinden kastedilen nedir?",
+    "cevap": "İş yeri: Öğrencilerin işyeri eğitimini gördüğü kamu, özel kurum ve kuruluşlarını ifade eder.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "iş yeri tanımı, neresi, kurum, kuruluş, kamu, özel"
+  },
+  {
+    "id": "SSS_004",
+    "kategori": "Tanımlar",
+    "soru": "İşyeri Eğitimi ile anlatılmak istenilen nedir?",
+    "cevap": "İşyeri Eğitimi: Uygulama esasları bu Yönergede belirlenmiş bir yarıyıl süren işyeri eğitimini tanımlar.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "eğitim tanımı, ne anlama gelir, süre, bir yarıyıl"
+  },
+  {
+    "id": "SSS_005",
+    "kategori": "Tanımlar",
+    "soru": "İşyeri Eğitimi Yetkilisi kimdir?",
+    "cevap": "İşyeri Eğitimi Yetkilisi: İşyeri eğitiminin uygulandığı kuruluşun, öğrencilerin işyerindeki eğitimlerinden sorumlu, ilgili programın en az lisans mezunu personelini anlatır.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "yetkili kimdir, sorumlu kişi, personel, lisans mezunu şartı"
+  },
+  {
+    "id": "SSS_006",
+    "kategori": "Tanımlar",
+    "soru": "İşyeri Yöneticisi kimdir?",
+    "cevap": "İşyeri Yöneticisi: İşyeri eğitimi protokolünü, işyeri eğitiminin uygulanacağı kuruluş adına imzalayan yetkiliyi tarif eder.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "yönetici kimdir, imza yetkilisi, protokol imzalayan"
+  },
+  {
+    "id": "SSS_007",
+    "kategori": "Tanımlar",
+    "soru": "Protokol nedir?",
+    "cevap": "Protokol: İşyeri eğitimi uygulamasıyla ilgili esasları belirleyen ve dekan ile işyeri yöneticisi tarafından imzalanan iyi niyet belgesini gösterir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "protokol tanımı, sözleşme, iyi niyet belgesi, dekan, yönetici"
+  },
+  {
+    "id": "SSS_008",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi yapılması zorunlu mudur?",
+    "cevap": "Öğrenciler, lisans diplomalarını alabilmeleri için, bu Yönerge hükümleri çerçevesinde, bir yarıyıl işyeri eğitimi yapmak zorundadırlar.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "zorunlu mu, şart mı, mezuniyet, diploma, mecburiyet"
+  },
+  {
+    "id": "SSS_009",
+    "kategori": "Tanımlar",
+    "soru": "İşyeri Eğitimi nedir?",
+    "cevap": "İşyeri Eğitimi; öğrencilere, öğrenim gördükleri lisans programı ile ilgili uygulama deneyimi kazandırma faaliyetidir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "eğitim nedir, faaliyet tanımı, deneyim, pratik"
+  },
+  {
+    "id": "SSS_010",
+    "kategori": "Genel Bilgiler",
+    "soru": "İşyeri Eğitiminin amacı nedir?",
+    "cevap": "Lisans Programlarıyla ilgili işyerlerini tanımalarını ve sektörde yaşanan teknolojik gelişimleri takip etme olanağı sağlamak, İşyerlerindeki hiyerarşik ilişkileri, sorumlulukları, organizasyon yapısını, iş disiplinini ve iş güvenliğini gözlemleyerek uyumlu çalışma, doğru davranma ve iyi iletişim kurabilme alışkanlığını kazandırmak, Almış oldukları teorik bilgileri uygulayabilme becerisini kazandırmak, Tasarım, üretim, kalite süreçlerini izleyerek ve bizzat uygulama yaparak, öğrenim süreleri içinde kazandıkları bilgi ve becerileri pekiştirme imkanı sağlamaktır.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "hedefler, neden yapılır, kazançlar, tecrübe, disiplin, uygulama becerisi"
+  },
+  {
+    "id": "SSS_011",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi yapılacak yer nasıl bir yer olmalıdır?",
+    "cevap": "Öğrenciler işyeri eğitimlerini bölümleriyle ile ilgili bir alanda faaliyet gösteren ve o alanla ilgili en az bir mühendisi bulunan işyerinde yapmak zorundadır.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "uygun yer, şirket şartları, nerede yapılır, mühendis şartı"
+  },
+  {
+    "id": "SSS_012",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi ne zaman ve kaç gün yapılmalıdır?",
+    "cevap": "Öğrenciler, işyeri eğitimini dördüncü sınıfın birinci yarıyılı süresince gerçekleştirir. Bir hafta 4 işgünü ve bir işgünü 8 saat olarak değerlendirilir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "ne zaman, süre, kaç gün, saatler, hangi dönem, dördüncü sınıf"
+  },
+  {
+    "id": "SSS_013",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimine başlanıldığı zaman değiştirmek mümkün olabilir mi?",
+    "cevap": "İşyeri eğitiminin kesintisiz yapılması esastır. Ancak zorunlu durumlarda, Bölüm İşyeri Eğitimi Komisyonunun onayı ile işyeri eğitimi uygun görülen zamanda ve farklı işyerlerinde yapılabilir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "değişiklik, iptal, başka yer, komisyon onayı, zorunlu durum"
+  },
+  {
+    "id": "SSS_014",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi kaç kredidir?",
+    "cevap": "28 AKTS'dir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "kredi, AKTS, puan"
+  },
+  {
+    "id": "SSS_015",
+    "kategori": "Uyarı",
+    "soru": "AŞAĞIDAKİ SORULARA GEÇİLMEDEN ÖNCE KESİNLİKLE NE YAPILMALIDIR?",
+    "cevap": "Sorulara geçilmeden önce; kesinlikle yönerge ve kılavuzların tam olarak incelenmesi zorunludur. Bu soruların cevapları, yönergeler esas alınarak hazırlanmıştır ancak cevapların kesinlikle bir hükmü olmamakla birlikte tavsiye niteliğindedir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "önemli uyarı, dikkat, kılavuz inceleme, tavsiye"
+  },
+  {
+    "id": "SSS_016",
+    "kategori": "Genel Bilgiler",
+    "soru": "İşyeri eğitimi nedir ve amacı nedir?",
+    "cevap": "İşyeri eğitimi, Marmara Üniversitesi Teknoloji Fakültesi öğrencilerinin lisans eğitimleri süresince sektörel deneyim kazanmalarını sağlayan zorunlu bir uygulamadır. Bu eğitim kapsamında öğrenciler, öğrenimleriyle ilgili bir işyerinde çalışarak teorik bilgilerini pratik uygulamalarla pekiştirir ve sektördeki güncel gelişmeleri takip etme fırsatı bulur (Madde 5).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "işyeri eğitimi nedir, amaç, sektörel deneyim, pratik uygulama, zorunlu uygulama"
+  },
+  {
+    "id": "SSS_017",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitimi hangi öğrenciler için zorunludur?",
+    "cevap": "Lisans eğitiminin tamamlanabilmesi için işyeri eğitimi tüm öğrenciler için zorunludur. Mezun olabilmek için öğrencilerin işyeri eğitimini tamamlamış olmaları gerekmektedir (Madde 5).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "zorunlu mu, kimler için, mezuniyet şartı, lisans"
+  },
+  {
+    "id": "SSS_018",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitimi hangi dönemde yapılır?",
+    "cevap": "İşyeri eğitimi genellikle dördüncü sınıfın güz veya bahar yarıyılında gerçekleştirilir. Eğitim süresi bir akademik yarıyıl olup kesintisiz yapılması esastır (Madde 5). İşyeri eğitimi, Bilgisayar Mühendisliği Bölümü’nde dördüncü sınıfın güz yarıyılında gerçekleştirilir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "hangi dönem, ne zaman, dördüncü sınıf, güz, bahar"
+  },
+  {
+    "id": "SSS_019",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitimi süresi ne kadardır?",
+    "cevap": "İşyeri eğitimi, bir yarıyıl boyunca sürer. Bir hafta beş iş günü ve her iş günü sekiz saat olacak şekilde planlanır (Madde 5).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "süre, ne kadar, kaç gün, iş günü, saat"
+  },
+  {
+    "id": "SSS_020",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitimine kimler katılabilir?",
+    "cevap": "İşyeri eğitimine, lisans programlarının dördüncü sınıfına geçmiş ve işyeri eğitimi dönemine gelmiş tüm öğrenciler katılabilir (Madde 5).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "kimler katılabilir, başvuru şartı, dördüncü sınıf"
+  },
+  {
+    "id": "SSS_021",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitimini tamamlamadan mezun olabilir miyim?",
+    "cevap": "Hayır. İşyeri eğitimi, mezuniyetin bir gerekliliidir. Bu eğitimi tamamlamayan öğrenciler mezun olamaz (Madde 5).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "mezuniyet, tamamlamadan mezun olma, zorunluluk"
+  },
+  {
+    "id": "SSS_022",
+    "kategori": "Başvuru ve Evraklar",
+    "soru": "İşyeri eğitimine başvururken hangi belgeleri doldurmam gerekir?",
+    "cevap": "Her öğrencinin işyeri eğitimine başlamak için önce İYE Tercih Dilekçesini (EK-A) belirtilen takvim aralığında Bölüm Sekreterliği’ne elden teslim etmesi gerekmektedir. Başvurusu onaylanan öğrencilerin yine belirtilen takvim aralığında İYE Başvuru Kabul Yazısı ve Devlet Katkısı Ödeme Formu (EK-1), Genel Sağlık Sigortası Beyanı (EK-2) ve dekanlığımız sayfasından edineceğiniz “Protokol” formlarını eksiksiz olarak elden teslim etmesi gerekmektedir. Komisyonun daha önce staj yapılmasını uygun gördüğü şirketleri tercih etmeniz durumunda bu üç formu ve protokol evrakını birlikte aynı anda teslim etmeniz de mümkündür. Not: Bölümümüzde İYE uygulaması dördüncü sınıfın güz yarıyılında gerçekleştirildiği için, il dışında veya yurt dışında ikamet eden öğrencilerimizin başvuru süreci ve uygulama sürecinin tamamında (orijinal belgeleri muhafaza etmek ve dönem sonunda belirtilen takvimde eksiksiz olarak elden teslim etmek şartıyla) tüm evrakları doğru ve anlaşılır formatta taratarak bölüm epostasına göndermesi mümkündür. Sürecin takibini bölüm web sayfasından ve komisyonun duyuru platformundan takip etmekle öğrenci yükümlüdür.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "başvuru belgeleri, evraklar, tercih dilekçesi, protokol, formlar"
+  },
+  {
+    "id": "SSS_023",
+    "kategori": "Başvuru ve Evraklar",
+    "soru": "İşyeri eğitimine nasıl başvuru yapabilirim?",
+    "cevap": "Her yıl güz ve bahar dönemlerinde işyeri eğitimine uygun yerler ilan edilir. Öğrenciler üç tercih yaparak başvuruda bulunur ve yerleştirme işlemleri Bölüm Staj ve İşletmede Mesleki Eğitim Komisyonu tarafından yapılır (Madde 8).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "nasıl başvurulur, başvuru süreci, yerleştirme, komisyon"
+  },
+  {
+    "id": "SSS_024",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitimi yapacağım yeri kendim seçebilir miyim?",
+    "cevap": "Öğrenciler kendi belirledikleri bir işyerinde işyeri eğitimi yapabilir, ancak bu yerin Bölüm Staj ve İşletmede Mesleki Eğitim Komisyonu tarafından onaylanması gerekmektedir. Onay alınmadan yapılan işyeri eğitimi geçersiz sayılır (Madde 7).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "yer seçimi, kendim bulabilir miyim, komisyon onayı, şirket seçimi"
+  },
+  {
+    "id": "SSS_025",
+    "kategori": "Başvuru ve Evraklar",
+    "soru": "Bölüm Staj ve İşletmede Mesleki Eğitim Komisyonu işyeri yerleşimini nasıl yapar?",
+    "cevap": "Komisyon, öğrencilerin tercihlerini ve akademik başarılarını dikkate alarak yerleştirme yapar. Tercih yoğunluğu olan işyerlerine akademik başarıya göre yerleştirme önceliği tanınır (Madde 8).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "yerleştirme nasıl yapılır, akademik başarı, komisyon kararı, öncelik"
+  },
+  {
+    "id": "SSS_026",
+    "kategori": "Uygulama Esasları",
+    "soru": "Yerleştirildiğim işyerinden memnun olmazsam değiştirebilir miyim?",
+    "cevap": "İşyeri değişikliği ancak zorunlu hallerde ve Bölüm Staj ve İşletmede Mesleki Eğitim Komisyonunun onayı ile yapılabilir. Komisyon onayı olmadan işyeri değiştiren öğrencilerin eğitimi geçersiz sayılır (Madde 9).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "işyeri değişikliği, memnuniyetsizlik, komisyon onayı, zorunlu hal"
+  },
+  {
+    "id": "SSS_027",
+    "kategori": "Başvuru ve Evraklar",
+    "soru": "İşyerine yerleştirme sonuçlarına itiraz edebilir miyim?",
+    "cevap": "Evet. Öğrenciler yerleştirme sonuçlarına beş gün içinde itiraz edebilirler. İtirazlar en geç on gün içinde değerlendirilerek karara bağlanır (Madde 8).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "itiraz, yerleştirme sonucu, kaç gün, değerlendirme"
+  },
+  {
+    "id": "SSS_028",
+    "kategori": "Sigorta ve Ücret",
+    "soru": "İşyeri eğitimi sırasında sigortam üniversite tarafından mı yapılır?",
+    "cevap": "Evet. 5510 sayılı kanun gereğince öğrencilerin iş kazası ve meslek hastalığı sigortası Marmara Üniversitesi tarafından yapılır (Madde 8).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "sigorta, kim yapar, iş kazası, meslek hastalığı, üniversite"
+  },
+  {
+    "id": "SSS_029",
+    "kategori": "Sigorta ve Ücret",
+    "soru": "İşyeri eğitiminde maaş veya ücret alacak mıyım?",
+    "cevap": "3308 Sayılı Mesleki Eğitim Kanunun Devlet Katkısı Uygulama Esasları Madde 4’ün 1 fıkrasında Geçici Madde 12 uyarınca aday çırak, çıraklar ile anılan kanunun 18. Maddesine göre İşletmelerde Mesleki Eğitim (İME) gören, staj veya tamamlayıcı eğitime devam eden öğrencilere aynı kanunun 25’inci maddenin birinci fıkrası kapsamında yapılacak ödemeler asgari ücretin net tutarının yüzde otuzundan az olamaz. Ödenebilecek en az ücretin; yirmiden az personel çalıştıran işletmeler için üçte ikisi, yirmi ve üzerinde personel çalıştıran işletmeler için üçte biri, 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanununun 53’üncü maddesinin üçüncü fıkrasının (B) bendinin (h) alt bendi için ayrılan tutardan Devlet katkısı olarak ödenir. EK-1 İYE Başvuru Kabul Yazısı ve Devlet Katkısı Ödeme Formu’nun öğrenci ve firma tarafından karşılıklı imzalanarak, öğrenci tarafından kendi bölüm başkanlığına SGK pirim girişi yapılan muhasebe birimine ulaştırılması için gerekli evraklarla birlikte staja başlama tarihinden önce teslim edilmelidir. Not: Kamu kurum ve kuruluşları bu kapsam dışındadır. Kamu kurum ve kuruluşlarında staj yapan öğrenciler için bu formun doldurulmasına gerek yoktur.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "maaş, ücret, devlet katkısı, asgari ücret, ödeme"
+  },
+  {
+    "id": "SSS_030",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyerinin bana ulaşım, yemek gibi destekler sağlama zorunluluğu var mı?",
+    "cevap": "İşyeri, kendi çalışanlarına sağladığı konaklama, yemek ve sosyal imkanlardan öğrencilerin de yararlanmasını sağlamakla yükümlüdür (Madde 7).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "ulaşım, yemek, sosyal imkanlar, işyeri desteği"
+  },
+  {
+    "id": "SSS_031",
+    "kategori": "Sigorta ve Ücret",
+    "soru": "İşyerinde çalışırken bir iş kazası geçirirsem ne yapmalıyım?",
+    "cevap": "İşyeri Eğitimi Yetkilisi, öğrenciyi en yakın sağlık kuruluşuna yönlendirip durumu SGK'ya, İzleyici Öğretim Üyesine ve Dekanlığa bildirmekle yükümlüdür (Madde 8). 5510 sayılı kanun gereği, İsteğe Bağlı Staj, Zorunlu Staj veya İşletmede Mesleki Eğitim uygulaması yapan öğrencilerimizin iş kazası ve meslek hastalığı sigorta primleri SGK’ya fakültemiz tarafından yatırılmaktadır. İsteğe Bağlı Staj, Zorunlu Staj veya İşletmede Mesleki Eğitim uygulaması yaparken kaza geçirmeniz ya da hastalanıp hastaneye başvurmanız durumunda, almış olduğunuz raporda “iş kazası” ibaresi işaretlenmiş ise bu durumu mutlaka dekanlığımıza iletmeniz gerekmektedir (teknoloji@marmara.edu.tr adresine “İŞ KAZASI” notu ile yazınız). Raporun düzenlendiği tarihten itibaren 3 iş günü içinde Fakültemiz veya staj yaptığınız işyeri tarafından SGK'ya iş kazası bildiriminin yapılması gerekmektedir. Aksi takdirde bildirim zorunluluğunun yerine getirilmemesi nedeni ile SGK tarafından ceza yansıtılmaktadır. Bu nedenle, staj yaparken böyle bir durum yaşamanız halinde, mağduriyet yaşamamak ve ceza yansıtılmasına neden olmamanız için durumu mutlaka dekanlığımıza iletmeniz gerekmektedir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "iş kazası, sağlık raporu, SGK bildirimi, dekanlık, acil durum"
+  },
+  {
+    "id": "SSS_032",
+    "kategori": "Devam Zorunluluğu ve İzinler",
+    "soru": "İşyeri eğitimine devam zorunluluğu var mı?",
+    "cevap": "Evet. Öğrencilerin işyeri eğitimine %80 oranında devam etmesi zorunludur. Devamsızlık oranı %20’yi aşarsa işyeri eğitimi geçersiz sayılır (Madde 9).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "devam zorunluluğu, devamsızlık sınırı, yüzde 80"
+  },
+  {
+    "id": "SSS_033",
+    "kategori": "Devam Zorunluluğu ve İzinler",
+    "soru": "İşyeri eğitimi süresince izin alabilir miyim?",
+    "cevap": "Zorunlu hallerde işyerinden bir gün önceden izin alınabilir. Ancak toplam izin süresi işyeri eğitiminin %20’sini aşamaz (Madde 9)",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "izin, mazeret, yüzde 20, zorunlu hal"
+  },
+  {
+    "id": "SSS_034",
+    "kategori": "Devam Zorunluluğu ve İzinler",
+    "soru": "Hastalık durumunda nasıl bir prosedür izlemeliyim?",
+    "cevap": "Sağlık raporu alındığında izinli sayılırsınız. Ancak rapor süresi işyeri eğitiminin %20’sini aşarsa işyeri eğitimi uzatılmalıdır, aksi takdirde geçersiz sayılır (Madde 9).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "hastalık, sağlık raporu, izinli sayılma, süre uzatımı"
+  },
+  {
+    "id": "SSS_035",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitiminde disiplin kuralları nasıl uygulanır?",
+    "cevap": "Öğrenciler Yükseköğretim Kurumları Disiplin Yönetmeliği'ne ve işyeri kurallarına uymak zorundadır. Disiplin ihlali yapan öğrenciler hakkında işlem başlatılır (Madde 9).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "disiplin kuralları, yönetmelik, ihlal, kurallar"
+  },
+  {
+    "id": "SSS_036",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitiminde grev, yürüyüş veya protestoya katılabilir miyim?",
+    "cevap": "Hayır. Öğrenciler işyerinde grev, gösteri, yürüyüş veya iş yavaşlatma eylemlerine katılamazlar (Madde 9).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "grev, protesto, yürüyüş, eylem, yasak"
+  },
+  {
+    "id": "SSS_037",
+    "kategori": "Değerlendirme ve Notlandırma",
+    "soru": "İşyeri eğitimi sırasında hangi belgeleri doldurmam gerekir?",
+    "cevap": "Her öğrenci, yaptığı işyeri eğitimiyle ilgili olarak, bölüm işyeri eğitimi uygulama esaslarında belirtilen içerikte ve Fakülte İşyeri Eğitimi Rapor Yazım kuralları kılavuzuna uygun olarak en az üçer haftalık dönemleri kapsayacak şekilde en az 4 adet “işyeri eğitimi ara raporu” (EK-7) ve bir “işyeri eğitimi dönem sonu raporu” (EK-3) hazırlar (Madde 11). Ayrıca işyeri yetkilisi ve öğrenci tarafından doldurulan değerlendirme formları (sırasıyla EK-4 ve EK-6) bulunur. Not: Aylık devam çizelgelerinin (EK-5) ıslak imzalı ve mühürlü hallerinin doğru taratılarak, takip eden her ayın 5'ine kadar bölüm başkanlıklarının e-posta adresine (bilgisayar.teknoloji@marmara.edu.tr) yollanması gerekmektedir. Ayrıca tüm aylara ait orijinal formların, ıslak imzalı ve mühürlü hallerinin staj bitimini izleyen haftanın Çarşamba gününe kadar Bölüm Başkanlığı'na elden teslim edilmesi gerekmektedir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "raporlar, ara rapor, dönem sonu raporu, devam çizelgesi, değerlendirme formu"
+  },
+  {
+    "id": "SSS_038",
+    "kategori": "Değerlendirme ve Notlandırma",
+    "soru": "İşyeri eğitimi notum nasıl hesaplanır?",
+    "cevap": "Notlar; raporlar, izleyici öğretim üyesi değerlendirmesi, işyeri yetkilisi notu ve yarıyıl sonu sınavı ile belirlenir (Madde 12).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "not hesaplama, değerlendirme, sınav, öğretim üyesi notu"
+  },
+  {
+    "id": "SSS_039",
+    "kategori": "Değerlendirme ve Notlandırma",
+    "soru": "İşyeri eğitimi değerlendirme sonuçlarına itiraz edebilir miyim?",
+    "cevap": "Evet. Sonuçlar açıklandıktan sonra beş iş günü içinde yazılı olarak itiraz edebilirsiniz (Madde 12).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "nota itiraz, değerlendirme sonucu, itiraz süresi"
+  },
+  {
+    "id": "SSS_040",
+    "kategori": "Uygulama Esasları",
+    "soru": "Staj 1 ve Staj 2’yi aynı şirkette farklı alanlarda yapıyorum/yaptım. İş yeri eğitimini de aynı şirkette yapabilir miyim?",
+    "cevap": "Evet, yapabilirsiniz.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "aynı şirket, staj 1, staj 2, şirket seçimi"
+  },
+  {
+    "id": "SSS_041",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri eğitimini uzaktan (remote) yapma şansımız var mı?",
+    "cevap": "Şirket uzaktan çalışma (remote) prensibi ile çalıştırıyorsa, evet yapabilirsiniz.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "uzaktan çalışma, remote, evden çalışma"
+  },
+  {
+    "id": "SSS_042",
+    "kategori": "Başvuru ve Evraklar",
+    "soru": "İşyeri Eğitimini gerçekleştirmek istediğim şirket ile üniversite aralarında protokol imzalamamışsa, bu işyerinde İYE yapamaz mıyım? Nasıl bir yol izlemeliyim?",
+    "cevap": "Başvuru evraklarınız arasında olan İYE Tercih Dilekçesi (EK-A) formunda altta yer alan tabloyu doldurarak diğer başvuru evrakları ile birlikte bölüm sekreterliğine belirtilen takvim süresi içinde elden teslim etmelisiniz. Ancak İYE yapılabilmesi için, bu şirketin Bölüm Staj ve İşletmede Mesleki Eğitim Komisyonu tarafından onaylanması gerekmektedir. Onaylanan ve reddedilen tüm başvurular belirtilen takvimde sadece bölüm web ana sayfasında ilan edilmektedir. Öğrenciler başvuru sonuçlarını buradan takip etmekle yükümlüdür.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "protokol yoksa, yeni şirket, komisyon onayı, başvuru süreci"
+  },
+  {
+    "id": "SSS_043",
+    "kategori": "Sigorta ve Ücret",
+    "soru": "Şu an çalışmaktayım ve sigorta kaydım bulunmaktadır. Aynı işyerinde İYE yapmak istiyorum. Sigorta beyanı için ne yapmalıyım?",
+    "cevap": "Durumu Bölüm Staj ve İşletmede Mesleki Eğitim Komisyonuna Genel Sağlık Sigortası Beyanı (EK-2) formu ile bildirmelisiniz.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "çalışan öğrenci, sigorta kaydı, sigorta beyanı, EK-2"
+  },
+  {
+    "id": "SSS_044",
+    "kategori": "Başvuru ve Evraklar",
+    "soru": "İşyeri Eğitimi başvurum kabul edildi. Kayıt döneminde bu dersin seçimini yapmalı mıyım?",
+    "cevap": "Evet, öğrenci bilgi sistemi üzerinden “İşyeri Eğitimi” dersini seçtiğinizden ve akademik danışmanınız tarafından kesin kaydının yapıldığından emin olunuz. Aksi durumda ders seçimi yapmadığınız için İşyeri Eğitimi’ne başlayamazsınız.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "ders seçimi, kayıt dönemi, öğrenci bilgi sistemi, obs"
+  },
+  {
+    "id": "SSS_045",
+    "kategori": "Uygulama Esasları",
+    "soru": "Yurtdışında işyeri eğitimi yapabilir miyim?",
+    "cevap": "Bölüm Staj ve İşletmede Mesleki Eğitim Komisyonu’nun uygunluk görüşü alınarak yurtdışında işyeri eğitimi yapılabilir. Ancak; Fakültemiz tarafından sigorta yapılamayacağından öğrencinin özel sigorta yaptırması ve işyeri eğitimi uygulamasının ilgili dönem başlangıç ve bitiş tarihleri aralığında olması gerekmekte olup, bu süreçte tüm sorumluluk öğrenciye aittir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "yurtdışı, özel sigorta, komisyon görüşü"
+  },
+  {
+    "id": "SSS_046",
+    "kategori": "Sigorta ve Ücret",
+    "soru": "İşyeri Eğitimi bitti ancak ilgili firmada işyeri eğitimimi uzatmak istiyorum, sigortam devam edebilir mi?",
+    "cevap": "İşyeri Eğitimi, ilgili dönemin derslerinin başlama ve bitiş tarihleri aralığını kapsar. Yasal olarak öğrencilerin sigortası söz konusu dönem aralığında yapılır. Öğrencilerin işyeri eğitimi bitiminden sonra sigortaları kesileceği için işyeri eğitimini uzatamaz.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "eğitim uzatma, sigorta devamı, süre bitimi"
+  },
+  {
+    "id": "SSS_047",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi yaptığım firma Cumartesi günleri işyeri eğitimine gelmemi istiyor?",
+    "cevap": "Şirket yetkilisinden bölümümüz komisyonuna hitaben Cumartesi gününün de gündüz mesaisi yapıldığına dair resmi yazı gönderilmesi şartıyla Cumartesi günü de çalışmak durumdasınız. Öğrenci ilgili firmanın gündüz mesai saatlerine uymak zorundadır.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "cumartesi çalışması, hafta sonu, mesai, resmi yazı"
+  },
+  {
+    "id": "SSS_048",
+    "kategori": "Değerlendirme ve Notlandırma",
+    "soru": "İşyeri eğitiminde başarısız olursam ne olur?",
+    "cevap": "Başarısız olan öğrenciler işyeri eğitimini tekrar etmek zorundadır (Madde 12).",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "başarısızlık, tekrar, kalma"
+  },
+  {
+    "id": "SSS_049",
+    "kategori": "Başvuru ve Evraklar",
+    "soru": "E-imza ile formlara şirket yetkilileri imzalarını atabilirler mi?",
+    "cevap": "Evet, e-imza geçerlidir. Evraklarda doğrulama kodu ile belirtildiği sürece e-imza kabul edilmektedir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "e-imza, elektronik imza, doğrulama kodu, imza geçerliliği"
+  }
+]
