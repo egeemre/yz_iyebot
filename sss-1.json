@@ -1,0 +1,122 @@
+[
+  {
+    "id": "SSS_001",
+    "kategori": "Genel Bilgiler",
+    "soru": "İşyeri Eğitimi yönergesinin amacı nedir?",
+    "cevap": "Bu Yönergenin amacı, Marmara Üniversitesi Teknoloji Fakültesi öğrencilerinin eğitim-öğretim programında yer alan İşyeri Eğitiminin uygulama esaslarını belirlemektir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "amaç, yönerge, uygulama esasları, neden yapılır, işyeri eğitimi mantığı"
+  },
+  {
+    "id": "SSS_002",
+    "kategori": "Genel Bilgiler",
+    "soru": "İşyeri Eğitimi yönergesinin kapsamı nedir?",
+    "cevap": "Bu Yönerge, Marmara Üniversitesi Teknoloji Fakültesi öğrencilerinin işyeri eğitimleriyle ilgili uygulama ve esasları kapsar.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "kapsam, uygulama, esaslar, kimleri kapsar"
+  },
+  {
+    "id": "SSS_003",
+    "kategori": "Tanımlar",
+    "soru": "İş yerinden kastedilen nedir?",
+    "cevap": "İş yeri: Öğrencilerin işyeri eğitimini gördüğü kamu, özel kurum ve kuruluşlarını ifade eder.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "iş yeri tanımı, neresi, kurum, kuruluş, kamu, özel"
+  },
+  {
+    "id": "SSS_004",
+    "kategori": "Tanımlar",
+    "soru": "İşyeri Eğitimi ile anlatılmak istenilen nedir?",
+    "cevap": "İşyeri Eğitimi: Uygulama esasları bu Yönergede belirlenmiş bir yarıyıl süren işyeri eğitimini tanımlar.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "eğitim tanımı, ne anlama gelir, süre, bir yarıyıl"
+  },
+  {
+    "id": "SSS_005",
+    "kategori": "Tanımlar",
+    "soru": "İşyeri Eğitimi Yetkilisi kimdir?",
+    "cevap": "İşyeri Eğitimi Yetkilisi: İşyeri eğitiminin uygulandığı kuruluşun, öğrencilerin işyerindeki eğitimlerinden sorumlu, ilgili programın en az lisans mezunu personelini anlatır.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "yetkili kimdir, sorumlu kişi, personel, lisans mezunu şartı"
+  },
+  {
+    "id": "SSS_006",
+    "kategori": "Tanımlar",
+    "soru": "İşyeri Yöneticisi kimdir?",
+    "cevap": "İşyeri Yöneticisi: İşyeri eğitimi protokolünü, işyeri eğitiminin uygulanacağı kuruluş adına imzalayan yetkiliyi tarif eder.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "yönetici kimdir, imza yetkilisi, protokol imzalayan"
+  },
+  {
+    "id": "SSS_007",
+    "kategori": "Tanımlar",
+    "soru": "Protokol nedir?",
+    "cevap": "Protokol: İşyeri eğitimi uygulamasıyla ilgili esasları belirleyen ve dekan ile işyeri yöneticisi tarafından imzalanan iyi niyet belgesini gösterir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "protokol tanımı, sözleşme, iyi niyet belgesi, dekan, yönetici"
+  },
+  {
+    "id": "SSS_008",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi yapılması zorunlu mudur?",
+    "cevap": "Öğrenciler, lisans diplomalarını alabilmeleri için, bu Yönerge hükümleri çerçevesinde, bir yarıyıl işyeri eğitimi yapmak zorundadırlar.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "zorunlu mu, şart mı, mezuniyet, diploma, mecburiyet"
+  },
+  {
+    "id": "SSS_009",
+    "kategori": "Tanımlar",
+    "soru": "İşyeri Eğitimi nedir?",
+    "cevap": "İşyeri Eğitimi; öğrencilere, öğrenim gördükleri lisans programı ile ilgili uygulama deneyimi kazandırma faaliyetidir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "eğitim nedir, faaliyet tanımı, deneyim, pratik"
+  },
+  {
+    "id": "SSS_010",
+    "kategori": "Genel Bilgiler",
+    "soru": "İşyeri Eğitiminin amacı nedir?",
+    "cevap": "Lisans Programlarıyla ilgili işyerlerini tanımalarını ve sektörde yaşanan teknolojik gelişimleri takip etme olanağı sağlamak, İşyerlerindeki hiyerarşik ilişkileri, sorumlulukları, organizasyon yapısını, iş disiplinini ve iş güvenliğini gözlemleyerek uyumlu çalışma, doğru davranma ve iyi iletişim kurabilme alışkanlığını kazandırmak, Almış oldukları teorik bilgileri uygulayabilme becerisini kazandırmak, Tasarım, üretim, kalite süreçlerini izleyerek ve bizzat uygulama yaparak, öğrenim süreleri içinde kazandıkları bilgi ve becerileri pekiştirme imkanı sağlamaktır.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "hedefler, neden yapılır, kazançlar, tecrübe, disiplin, uygulama becerisi"
+  },
+  {
+    "id": "SSS_011",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi yapılacak yer nasıl bir yer olmalıdır?",
+    "cevap": "Öğrenciler işyeri eğitimlerini bölümleriyle ile ilgili bir alanda faaliyet gösteren ve o alanla ilgili en az bir mühendisi bulunan işyerinde yapmak zorundadır.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "uygun yer, şirket şartları, nerede yapılır, mühendis şartı"
+  },
+  {
+    "id": "SSS_012",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi ne zaman ve kaç gün yapılmalıdır?",
+    "cevap": "Öğrenciler, işyeri eğitimini dördüncü sınıfın birinci yarıyılı süresince gerçekleştirir. Bir hafta 4 işgünü ve bir işgünü 8 saat olarak değerlendirilir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "ne zaman, süre, kaç gün, saatler, hangi dönem, dördüncü sınıf"
+  },
+  {
+    "id": "SSS_013",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimine başlanıldığı zaman değiştirmek mümkün olabilir mi?",
+    "cevap": "İşyeri eğitiminin kesintisiz yapılması esastır. Ancak zorunlu durumlarda, Bölüm İşyeri Eğitimi Komisyonunun onayı ile işyeri eğitimi uygun görülen zamanda ve farklı işyerlerinde yapılabilir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "değişiklik, iptal, başka yer, komisyon onayı, zorunlu durum"
+  },
+  {
+    "id": "SSS_014",
+    "kategori": "Uygulama Esasları",
+    "soru": "İşyeri Eğitimi kaç kredidir?",
+    "cevap": "28 AKTS'dir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "kredi, AKTS, puan"
+  },
+  {
+    "id": "SSS_015",
+    "kategori": "Uyarı",
+    "soru": "AŞAĞIDAKİ SORULARA GEÇİLMEDEN ÖNCE KESİNLİKLE NE YAPILMALIDIR?",
+    "cevap": "Sorulara geçilmeden önce; kesinlikle yönerge ve kılavuzların tam olarak incelenmesi zorunludur. Bu soruların cevapları, yönergeler esas alınarak hazırlanmıştır ancak cevapların kesinlikle bir hükmü olmamakla birlikte tavsiye niteliğindedir.",
+    "kaynak": "Marmara Üni. Teknoloji Fakültesi İşyeri Eğitimi S.S.S.",
+    "anahtar_kelimeler": "önemli uyarı, dikkat, kılavuz inceleme, tavsiye"
+  }
+]
