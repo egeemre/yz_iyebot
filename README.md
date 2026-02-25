@@ -13,13 +13,13 @@ Kullanıcı Arayüzü (Frontend)
 * **[Tailwind CSS](https://tailwindcss.com/):** 
 
 Eğitim Dosyaları:
-1- İş yeri eğitimi yönergesi.
+1- İş yeri eğitimi yönergesi. ✔✔✔YÜKLENDİ
 2- EK dosyalarının hepsi.
 3- 2025-2026 iş yeri eğitimi akış şeması
-4- Marmara sayfasındaki soru cevaplar (json formatına getirilecek)
-5- Classroom toplantı notları (json formatına getirilecek)
+4- Marmara sayfasındaki soru cevaplar (json formatına getirilecek) ✔✔✔ YÜKLENDİ
+5- Classroom toplantı notları (json formatına getirilecek) ✔✔✔ YÜKLENDİ
 
-*Gençler merhaba, 
+CLASSROOM DUYURULARI::::
 
 1- Evrak gönderim tarihlerine mutlaka uymalısınız. Alternatif son tarihler yoktur. Başvuru sonuçlarının kesin ilanı 16 Eylül tarihinde yapılacak ve bölüm web sayfamızda duyurulacaktır. Akabinde, sigorta giriş işlemleri Cuma gününe kadar yapılacak olup,  e-devletten "4-A İşe Giriş Bildirgesi" formunu indirerek erişebileceksiniz. Aralıklı kontroller yapınız ve Cuma gününü geçtiği halde bu belgeye erişemezseniz staj epostasından bildiriniz.
 
