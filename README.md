@@ -15,7 +15,7 @@ Kullanıcı Arayüzü (Frontend)
 Eğitim Dosyaları:
 1- İş yeri eğitimi yönergesi. ✔✔✔YÜKLENDİ
 
-2- EK dosyalarının hepsi.
+2- EK dosyalarının hepsi. ✔✔✔YÜKLENDİ
 
 3- 2025-2026 iş yeri eğitimi akış şeması ✔✔✔YÜKLENDİ
 
