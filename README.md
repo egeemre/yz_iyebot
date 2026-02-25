@@ -17,7 +17,7 @@ Eğitim Dosyaları:
 
 2- EK dosyalarının hepsi.
 
-3- 2025-2026 iş yeri eğitimi akış şeması
+3- 2025-2026 iş yeri eğitimi akış şeması ✔✔✔YÜKLENDİ
 
 4- Marmara sayfasındaki soru cevaplar (json formatına getirilecek) ✔✔✔ YÜKLENDİ
 
